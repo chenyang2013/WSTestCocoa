@@ -7,7 +7,7 @@
 //
 
 #import "YESViewController.h"
-
+#import <SHRCBCommonModel.h>
 @interface YESViewController ()
 
 @end

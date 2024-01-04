@@ -1,0 +1,6 @@
+framework module WSTestCocoa {
+  umbrella header "WSTestCocoa-umbrella.h"
+
+  export *
+  module * { export * }
+}
